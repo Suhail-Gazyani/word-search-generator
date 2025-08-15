@@ -1,0 +1,1 @@
+This app generates a 7x7 word search puzzle. Enter words up to 7 letters, click Add Word, then Generate Grid to create the puzzle. Words are placed horizontally and empty cells are filled with random letters.
